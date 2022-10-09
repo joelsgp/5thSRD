@@ -7,7 +7,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Ability Score Increase.** Your Dexterity score increases by 2. 
 
-**Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century. 
+**Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of their second century. 
 
 **Alignment.** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways. 
 

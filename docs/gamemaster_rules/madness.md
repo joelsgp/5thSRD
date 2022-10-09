@@ -21,11 +21,11 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
-| 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
+| 01-20  | The character retreats into their mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21-30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
-| 21-40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
+| 21-40  | The character becomes frightened and must use their action and movement each round to flee from the source of the fear. |
 | 41-50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
-| 51-60  | The character must use his or her action each round to attack the nearest creature.                                          |
+| 51-60  | The character must use their action each round to attack the nearest creature.                                          |
 | 51-70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
 | 71-75  | The character does whatever anyone tells him or her to do that isn't obviously self-destructive.                             |
 | 75-80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
@@ -54,7 +54,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-15  | "Being drunk keeps me sane."                                                                                                             |
 | 16-25  | "I keep whatever I find."                                                                                                                |
-| 26-30  | "I try to become more like someone else I know--adopting his or her style of dress, mannerisms, and name."                               |
+| 26-30  | "I try to become more like someone else I know--adopting their style of dress, mannerisms, and name."                               |
 | 31-35  | "I must bend the truth, exaggerate, or outright lie to be interesting to other people."                                                  |
 | 36-45  | "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."                                   |
 | 46-50  | "I find it hard to care about anything that goes on around me."                                                                          |

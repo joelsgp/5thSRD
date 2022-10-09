@@ -145,7 +145,7 @@ Beginning at 18th level, you can use your action to spend 4 ki points to become 
 At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points. 
 
 ## Monastic Traditions 
-Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level. 
+Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to their aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level. 
 
 ### Way of the Open Hand 
 - - -

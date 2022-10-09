@@ -46,7 +46,7 @@ Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion c
 ### Food 
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion. A normal day of eating resets the count of days without food to zero. 
+A character can go without food for a number of days equal to 3 + their Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion. A normal day of eating resets the count of days without food to zero. 
 
 ### Water
 A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
@@ -54,7 +54,7 @@ A character needs one gallon of water per day, or two gallons per day if the wea
 If the character already has one or more levels of exhaustion, the character takes two levels in either case. 
 
 ## Interacting with Objects 
-A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
+A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that their character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
 
 For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
 

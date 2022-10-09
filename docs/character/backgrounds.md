@@ -58,7 +58,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 3  | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)                   |
 | 4  | Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)                                   |
 | 5  | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)    |
-| 6  | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
+| 6  | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against their teachings. (Any) |
 
 | d6 | Bond                                                                                     |
 |----|------------------------------------------------------------------------------------------|
